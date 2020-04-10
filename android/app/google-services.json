@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "111379528329",
+    "firebase_url": "https://splitmoney-d1500.firebaseio.com",
+    "project_id": "splitmoney-d1500",
+    "storage_bucket": "splitmoney-d1500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111379528329:android:8a6d802cd8c030bff66458",
+        "android_client_info": {
+          "package_name": "com.sachinak.advexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111379528329-3u2sv1emujlo8k1qej7kin5j6in3to84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sachinak.advexam",
+            "certificate_hash": "f08d06763a3c36912476e56bd214f0c58cf08d5f"
+          }
+        },
+        {
+          "client_id": "111379528329-17o1fn2fauhbvoc7sbgcvj6jvuaadfi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbid-Lg8RzPnn7vBE76lehr9xcr4kublw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111379528329-17o1fn2fauhbvoc7sbgcvj6jvuaadfi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

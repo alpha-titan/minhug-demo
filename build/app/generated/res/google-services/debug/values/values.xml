@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">111379528329-17o1fn2fauhbvoc7sbgcvj6jvuaadfi9.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://splitmoney-d1500.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">111379528329</string>
+    <string name="google_api_key" translatable="false">AIzaSyBbid-Lg8RzPnn7vBE76lehr9xcr4kublw</string>
+    <string name="google_app_id" translatable="false">1:111379528329:android:8a6d802cd8c030bff66458</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBbid-Lg8RzPnn7vBE76lehr9xcr4kublw</string>
+    <string name="google_storage_bucket" translatable="false">splitmoney-d1500.appspot.com</string>
+    <string name="project_id" translatable="false">splitmoney-d1500</string>
+</resources>
